@@ -19,4 +19,4 @@ test:
   image: node:20.11.0
   stage: test
   script: 
-    -echo "Hello World"
+    - echo "Hello World"
